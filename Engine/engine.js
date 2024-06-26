@@ -19,3 +19,10 @@ setTimeout(() => {
 }, 5000);
 
 console.log("Time out first?");
+
+/* 
+Hi
+Time out first?
+async function 1 complete
+async function 2 complete
+*/
